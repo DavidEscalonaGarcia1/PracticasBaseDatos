@@ -1,3 +1,5 @@
+-- Exercici Model E/R --
+
 erDiagram
     PERSONATGE ||--o{ ENEMIC : enfronta
     PERSONATGE }o--|| MASCOTA : acompanya
